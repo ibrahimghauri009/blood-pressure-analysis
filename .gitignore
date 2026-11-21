@@ -1,0 +1,5 @@
+cardio_train.csv
+*.aux
+*.log
+.ipynb_checkpoints/
+.Rhistory
